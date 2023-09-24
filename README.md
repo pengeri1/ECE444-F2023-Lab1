@@ -12,7 +12,11 @@ This repo is a clone of https://github.com/miguelgrinberg/flasky
 ![Activity 3](Lab1Activty3.png)
 
 ## Activity 4
+image 1
 ![Activity 4](Lab1Activity4.1.png)
+image 2
 ![Activity 4](Lab1Activity4.2.png)
+image 3
 ![Activity 4](Lab1Activity4.3.png)
+image 4
 ![Activity 4](Lab1Activity4.4.png)
