@@ -6,18 +6,18 @@
 {% block page_content %}
 <div class="page-header">
     <h1>
-        Hello, {% if name %}{{ name }}{% else %}Stranger{% endif %}!
+        Hello, {% if name %}{{ name }}{% else %}Stranger{% endif %}! Welcome to Lab3 Docker!
         {% if email_warning %}
-            <br> {{ email_warning }}
+        <br> {{ email_warning }}
         {% endif %}
 
         {% if email %}
-            <br>
-            {% if  'utoronto' in email %}
-                Your UofT email is: {{ email }}
-            {% else %}
-                Please use your UofT email.
-            {% endif %}
+        <br>
+        {% if  'utoronto' in email %}
+        Your UofT email is: {{ email }}
+        {% else %}
+        Please use your UofT email.
+        {% endif %}
         {% endif %}
 
     </h1>
